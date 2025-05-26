@@ -2,8 +2,7 @@
 
 ## Computer Science Student at UCR
 
-- 🧑‍💻 Currently working on personal projects to develop my skills
-- 🧐 Looking for internship opportunities
+- 🧑‍💻 Currently working as a developer at SMI
 - ‼️ Check out all my public projects at [https://github.com/czuniga28](https://github.com/czuniga28)
 - 📭 You can reach me here! [christopher.zunigarojas@ucr.ac.cr](mailto:christopher.zunigarojas@ucr.ac.cr)
 
